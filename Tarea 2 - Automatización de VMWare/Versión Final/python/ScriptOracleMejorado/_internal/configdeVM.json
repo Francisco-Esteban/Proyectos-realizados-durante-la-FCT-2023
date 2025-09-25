@@ -1,0 +1,52 @@
+
+
+
+{
+"ramMB" : 4096,
+
+"discoGB" : 50,
+
+"nombremaquina" : "loslaskibidisman",
+
+"sistemaoperativo" : "Linux",
+
+
+"nombreDeDiscoVM" : "elthethesepppp.vdi",
+
+"tipoDeDisco" : "hdd",
+
+"formatoDisco" : "VDI",
+
+"portdisco" : 0,
+
+"devicedisco" : 0,
+
+"controladornombre" : "micontrolador",
+
+"controladortipo" : "SATA",
+
+"chipset" :"PIIX3",
+
+
+
+
+"controladornombreISO" : "micontroladorISO",
+
+"controladortipoISO" : "IDE",
+
+"chipsetISO" : "PIIX3",
+
+"portISO" : 1,
+
+"devISO" : 1,
+
+"typeISO" : "dvddrive",
+
+
+
+"rutadiscovm" : "C:/Users/Carlos/Desktop/python/ScriptOracleMejorado/_internal/",
+
+
+"rutadevbox" : "C:/Program Files/Oracle/VirtualBox/VBoxManage.exe"
+
+}
